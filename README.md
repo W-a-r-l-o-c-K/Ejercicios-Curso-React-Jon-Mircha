@@ -1,6 +1,6 @@
 # Curso _React_
 
-En este repositorio estan los ejercicio que hago como alumno.
+En este repositorio estan los ejercicios que hago como alumno.
 
 Aquí encontrarás los recursos para seguir el [Curso de _React_](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk) de [Jonathan MirCha](https://jonmircha.com/).
 
